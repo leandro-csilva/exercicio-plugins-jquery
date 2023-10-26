@@ -22,7 +22,7 @@ $(document).ready(function(){
                         required: true
                   },
                   cep: {
-                        requred: true
+                        required: true
                   }
             },
 
